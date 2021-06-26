@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://rodrigovallades.github.io/csb-dyux7/static/js/main.87e1a93c.chunk.js",
+    "main.js.map": "https://rodrigovallades.github.io/csb-dyux7/static/js/main.87e1a93c.chunk.js.map",
+    "runtime-main.js": "https://rodrigovallades.github.io/csb-dyux7/static/js/runtime-main.9831306c.js",
+    "runtime-main.js.map": "https://rodrigovallades.github.io/csb-dyux7/static/js/runtime-main.9831306c.js.map",
+    "static/js/2.8c237bdd.chunk.js": "https://rodrigovallades.github.io/csb-dyux7/static/js/2.8c237bdd.chunk.js",
+    "static/js/2.8c237bdd.chunk.js.map": "https://rodrigovallades.github.io/csb-dyux7/static/js/2.8c237bdd.chunk.js.map",
+    "index.html": "https://rodrigovallades.github.io/csb-dyux7/index.html",
+    "static/js/2.8c237bdd.chunk.js.LICENSE.txt": "https://rodrigovallades.github.io/csb-dyux7/static/js/2.8c237bdd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9831306c.js",
+    "static/js/2.8c237bdd.chunk.js",
+    "static/js/main.87e1a93c.chunk.js"
+  ]
+}
